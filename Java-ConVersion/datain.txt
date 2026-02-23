@@ -1,0 +1,5 @@
+Smith~John~123 Main Street~Springfield~IL~62701
+Doe~Jane~456 Oak Avenue~Portland~OR~97201
+Johnson~Robert~789 Pine Road~Seattle~WA~98101
+Williams~Mary~321 Elm Street~Boston~MA~02101
+Brown~James~654 Maple Drive~Austin~TX~73301

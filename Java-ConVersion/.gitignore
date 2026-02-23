@@ -1,0 +1,29 @@
+# Build and compiled files
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Output files
+dataout.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
